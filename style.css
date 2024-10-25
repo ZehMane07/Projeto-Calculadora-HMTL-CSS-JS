@@ -22,3 +22,9 @@ body {
     border-radius: 15px;
     border-bottom: black 2px solid;
 }
+
+.tecla1 {
+    width: 40px;
+    height: 40px;
+    background-color: aliceblue;
+}
